@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace ProductQueryMicroService.Migrations
+namespace ProductCommandMicroService.Migrations
 {
     /// <inheritdoc />
     public partial class First : Migration

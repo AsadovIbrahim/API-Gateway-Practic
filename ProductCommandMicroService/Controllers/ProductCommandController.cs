@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using ProductCommandMicroService.DTOs;
 using ProductCommandMicroService.Entities.Concretes;
 using ProductCommandMicroService.Repositories.Abstracts;
 
@@ -17,14 +18,26 @@ namespace ProductCommandMicroService.Controllers
         }
 
         [HttpPost("AddProduct")]
-        public async Task<IActionResult>AddProductAsync(Product product)
+        public async Task<IActionResult>AddProductAsync(AddProductDTO addProductDTO)
         {
-            if (product == null)
+            if (!ModelState.IsValid)
             {
                 return BadRequest();
             }
+            var product = new Product
+            {
+                Name = addProductDTO.Name,
+                Price=addProductDTO.Price,
+                Description= addProductDTO.Description,
+            };
             await _productRepository.AddAsync(product);
-            return Ok();
+            return Ok(product);
+            //if (product == null)
+            //{
+            //    return BadRequest();
+            //}
+            //await _productRepository.AddAsync(product);
+            //return Ok();
         }
 
         [HttpPost("DeleteProduct")]

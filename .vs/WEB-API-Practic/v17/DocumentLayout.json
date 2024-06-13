@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24E3EB05-A642-4633-A4FE-F635D793AB15}|ProductCommandMicroService\\ProductCommandMicroService.csproj|c:\\users\\asado_ho45\\source\\repos\\web-api-practic\\productcommandmicroservice\\controllers\\productcommandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24E3EB05-A642-4633-A4FE-F635D793AB15}|ProductCommandMicroService\\ProductCommandMicroService.csproj|solutionrelative:productcommandmicroservice\\controllers\\productcommandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7AF5BD7-A723-492C-BB7D-99DAE40FEACB}|ProductQueryMicroService\\ProductQueryMicroService.csproj|c:\\users\\asado_ho45\\source\\repos\\web-api-practic\\productquerymicroservice\\controllers\\productquerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7AF5BD7-A723-492C-BB7D-99DAE40FEACB}|ProductQueryMicroService\\ProductQueryMicroService.csproj|c:\\users\\asus\\desktop\\api-gateway-practic\\productquerymicroservice\\controllers\\productquerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7AF5BD7-A723-492C-BB7D-99DAE40FEACB}|ProductQueryMicroService\\ProductQueryMicroService.csproj|solutionrelative:productquerymicroservice\\controllers\\productquerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E5ADB27-D70F-4914-8B50-FD0E6C827564}|ApiGateWay\\ApiGateWay.csproj|c:\\users\\asado_ho45\\source\\repos\\web-api-practic\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5E5ADB27-D70F-4914-8B50-FD0E6C827564}|ApiGateWay\\ApiGateWay.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{24E3EB05-A642-4633-A4FE-F635D793AB15}|ProductCommandMicroService\\ProductCommandMicroService.csproj|c:\\users\\asus\\desktop\\api-gateway-practic\\productcommandmicroservice\\controllers\\productcommandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E3EB05-A642-4633-A4FE-F635D793AB15}|ProductCommandMicroService\\ProductCommandMicroService.csproj|solutionrelative:productcommandmicroservice\\controllers\\productcommandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E5ADB27-D70F-4914-8B50-FD0E6C827564}|ApiGateWay\\ApiGateWay.csproj|c:\\users\\asado_ho45\\source\\repos\\web-api-practic\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E5ADB27-D70F-4914-8B50-FD0E6C827564}|ApiGateWay\\ApiGateWay.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7AF5BD7-A723-492C-BB7D-99DAE40FEACB}|ProductQueryMicroService\\ProductQueryMicroService.csproj|c:\\users\\asado_ho45\\source\\repos\\web-api-practic\\productquerymicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7AF5BD7-A723-492C-BB7D-99DAE40FEACB}|ProductQueryMicroService\\ProductQueryMicroService.csproj|solutionrelative:productquerymicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24E3EB05-A642-4633-A4FE-F635D793AB15}|ProductCommandMicroService\\ProductCommandMicroService.csproj|c:\\users\\asado_ho45\\source\\repos\\web-api-practic\\productcommandmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24E3EB05-A642-4633-A4FE-F635D793AB15}|ProductCommandMicroService\\ProductCommandMicroService.csproj|solutionrelative:productcommandmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7AF5BD7-A723-492C-BB7D-99DAE40FEACB}|ProductQueryMicroService\\ProductQueryMicroService.csproj|c:\\users\\asado_ho45\\source\\repos\\web-api-practic\\productquerymicroservice\\repositories\\concretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7AF5BD7-A723-492C-BB7D-99DAE40FEACB}|ProductQueryMicroService\\ProductQueryMicroService.csproj|solutionrelative:productquerymicroservice\\repositories\\concretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24E3EB05-A642-4633-A4FE-F635D793AB15}|ProductCommandMicroService\\ProductCommandMicroService.csproj|c:\\users\\asado_ho45\\source\\repos\\web-api-practic\\productcommandmicroservice\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24E3EB05-A642-4633-A4FE-F635D793AB15}|ProductCommandMicroService\\ProductCommandMicroService.csproj|solutionrelative:productcommandmicroservice\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7AF5BD7-A723-492C-BB7D-99DAE40FEACB}|ProductQueryMicroService\\ProductQueryMicroService.csproj|c:\\users\\asado_ho45\\source\\repos\\web-api-practic\\productquerymicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C7AF5BD7-A723-492C-BB7D-99DAE40FEACB}|ProductQueryMicroService\\ProductQueryMicroService.csproj|solutionrelative:productquerymicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24E3EB05-A642-4633-A4FE-F635D793AB15}|ProductCommandMicroService\\ProductCommandMicroService.csproj|c:\\users\\asado_ho45\\source\\repos\\web-api-practic\\productcommandmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{24E3EB05-A642-4633-A4FE-F635D793AB15}|ProductCommandMicroService\\ProductCommandMicroService.csproj|c:\\users\\asus\\desktop\\api-gateway-practic\\productcommandmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{24E3EB05-A642-4633-A4FE-F635D793AB15}|ProductCommandMicroService\\ProductCommandMicroService.csproj|solutionrelative:productcommandmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7AF5BD7-A723-492C-BB7D-99DAE40FEACB}|ProductQueryMicroService\\ProductQueryMicroService.csproj|c:\\users\\asado_ho45\\source\\repos\\web-api-practic\\productquerymicroservice\\repositories\\abstract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7AF5BD7-A723-492C-BB7D-99DAE40FEACB}|ProductQueryMicroService\\ProductQueryMicroService.csproj|c:\\users\\asus\\desktop\\api-gateway-practic\\productquerymicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7AF5BD7-A723-492C-BB7D-99DAE40FEACB}|ProductQueryMicroService\\ProductQueryMicroService.csproj|solutionrelative:productquerymicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E3EB05-A642-4633-A4FE-F635D793AB15}|ProductCommandMicroService\\ProductCommandMicroService.csproj|c:\\users\\asus\\desktop\\api-gateway-practic\\productcommandmicroservice\\entities\\concretes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E3EB05-A642-4633-A4FE-F635D793AB15}|ProductCommandMicroService\\ProductCommandMicroService.csproj|solutionrelative:productcommandmicroservice\\entities\\concretes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AF5BD7-A723-492C-BB7D-99DAE40FEACB}|ProductQueryMicroService\\ProductQueryMicroService.csproj|c:\\users\\asus\\desktop\\api-gateway-practic\\productquerymicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AF5BD7-A723-492C-BB7D-99DAE40FEACB}|ProductQueryMicroService\\ProductQueryMicroService.csproj|solutionrelative:productquerymicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5ADB27-D70F-4914-8B50-FD0E6C827564}|ApiGateWay\\ApiGateWay.csproj|c:\\users\\asus\\desktop\\api-gateway-practic\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5ADB27-D70F-4914-8B50-FD0E6C827564}|ApiGateWay\\ApiGateWay.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E3EB05-A642-4633-A4FE-F635D793AB15}|ProductCommandMicroService\\ProductCommandMicroService.csproj|c:\\users\\asus\\desktop\\api-gateway-practic\\productcommandmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E3EB05-A642-4633-A4FE-F635D793AB15}|ProductCommandMicroService\\ProductCommandMicroService.csproj|solutionrelative:productcommandmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AF5BD7-A723-492C-BB7D-99DAE40FEACB}|ProductQueryMicroService\\ProductQueryMicroService.csproj|c:\\users\\asus\\desktop\\api-gateway-practic\\productquerymicroservice\\repositories\\concretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AF5BD7-A723-492C-BB7D-99DAE40FEACB}|ProductQueryMicroService\\ProductQueryMicroService.csproj|solutionrelative:productquerymicroservice\\repositories\\concretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E3EB05-A642-4633-A4FE-F635D793AB15}|ProductCommandMicroService\\ProductCommandMicroService.csproj|c:\\users\\asus\\desktop\\api-gateway-practic\\productcommandmicroservice\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E3EB05-A642-4633-A4FE-F635D793AB15}|ProductCommandMicroService\\ProductCommandMicroService.csproj|solutionrelative:productcommandmicroservice\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AF5BD7-A723-492C-BB7D-99DAE40FEACB}|ProductQueryMicroService\\ProductQueryMicroService.csproj|c:\\users\\asus\\desktop\\api-gateway-practic\\productquerymicroservice\\repositories\\abstract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7AF5BD7-A723-492C-BB7D-99DAE40FEACB}|ProductQueryMicroService\\ProductQueryMicroService.csproj|solutionrelative:productquerymicroservice\\repositories\\abstract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,132 +54,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ApiGateWay\\Program.cs",
-              "RelativeDocumentMoniker": "ApiGateWay\\Program.cs",
-              "ToolTip": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ApiGateWay\\Program.cs",
-              "RelativeToolTip": "ApiGateWay\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T17:26:09.572Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ProductQueryMicroService\\Repositories\\Concretes\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "ProductQueryMicroService\\Repositories\\Concretes\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ProductQueryMicroService\\Repositories\\Concretes\\GenericRepository.cs",
-              "RelativeToolTip": "ProductQueryMicroService\\Repositories\\Concretes\\GenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T17:15:48.137Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductQueryController.cs",
-              "DocumentMoniker": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ProductQueryMicroService\\Controllers\\ProductQueryController.cs",
-              "RelativeDocumentMoniker": "ProductQueryMicroService\\Controllers\\ProductQueryController.cs",
-              "ToolTip": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ProductQueryMicroService\\Controllers\\ProductQueryController.cs",
-              "RelativeToolTip": "ProductQueryMicroService\\Controllers\\ProductQueryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T17:10:55.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ocelot.json",
-              "DocumentMoniker": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ApiGateWay\\ocelot.json",
-              "RelativeDocumentMoniker": "ApiGateWay\\ocelot.json",
-              "ToolTip": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ApiGateWay\\ocelot.json",
-              "RelativeToolTip": "ApiGateWay\\ocelot.json",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-10T16:56:31.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "ProductCommandController.cs",
-              "DocumentMoniker": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ProductCommandMicroService\\Controllers\\ProductCommandController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ProductCommandMicroService\\Controllers\\ProductCommandController.cs",
               "RelativeDocumentMoniker": "ProductCommandMicroService\\Controllers\\ProductCommandController.cs",
-              "ToolTip": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ProductCommandMicroService\\Controllers\\ProductCommandController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ProductCommandMicroService\\Controllers\\ProductCommandController.cs",
               "RelativeToolTip": "ProductCommandMicroService\\Controllers\\ProductCommandController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABIAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T16:50:16.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ProductCommandMicroService\\Contexts\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ProductCommandMicroService\\Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ProductCommandMicroService\\Contexts\\AppDbContext.cs",
-              "RelativeToolTip": "ProductCommandMicroService\\Contexts\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T16:43:08.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ProductQueryMicroService\\Program.cs",
-              "RelativeDocumentMoniker": "ProductQueryMicroService\\Program.cs",
-              "ToolTip": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ProductQueryMicroService\\Program.cs",
-              "RelativeToolTip": "ProductQueryMicroService\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T16:21:51.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ProductCommandMicroService\\Program.cs",
-              "RelativeDocumentMoniker": "ProductCommandMicroService\\Program.cs",
-              "ToolTip": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ProductCommandMicroService\\Program.cs",
-              "RelativeToolTip": "ProductCommandMicroService\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T16:20:12.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ProductCommandMicroService\\appsettings.json",
-              "RelativeDocumentMoniker": "ProductCommandMicroService\\appsettings.json",
-              "ToolTip": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ProductCommandMicroService\\appsettings.json",
-              "RelativeToolTip": "ProductCommandMicroService\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-10T16:19:51.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ProductQueryMicroService\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ProductQueryMicroService\\appsettings.json",
               "RelativeDocumentMoniker": "ProductQueryMicroService\\appsettings.json",
-              "ToolTip": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ProductQueryMicroService\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ProductQueryMicroService\\appsettings.json",
               "RelativeToolTip": "ProductQueryMicroService\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -188,16 +100,115 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ProductCommandMicroService\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductCommandMicroService\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ProductCommandMicroService\\appsettings.json",
+              "RelativeToolTip": "ProductCommandMicroService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T16:19:51.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductQueryController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ProductQueryMicroService\\Controllers\\ProductQueryController.cs",
+              "RelativeDocumentMoniker": "ProductQueryMicroService\\Controllers\\ProductQueryController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ProductQueryMicroService\\Controllers\\ProductQueryController.cs",
+              "RelativeToolTip": "ProductQueryMicroService\\Controllers\\ProductQueryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:10:55.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ProductCommandMicroService\\Entities\\Concretes\\Product.cs",
+              "RelativeDocumentMoniker": "ProductCommandMicroService\\Entities\\Concretes\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ProductCommandMicroService\\Entities\\Concretes\\Product.cs",
+              "RelativeToolTip": "ProductCommandMicroService\\Entities\\Concretes\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:25:25.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ProductQueryMicroService\\Program.cs",
+              "RelativeDocumentMoniker": "ProductQueryMicroService\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ProductQueryMicroService\\Program.cs",
+              "RelativeToolTip": "ProductQueryMicroService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:21:51.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ProductCommandMicroService\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCommandMicroService\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ProductCommandMicroService\\Program.cs",
+              "RelativeToolTip": "ProductCommandMicroService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:20:12.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ProductCommandMicroService\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProductCommandMicroService\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ProductCommandMicroService\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "ProductCommandMicroService\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:43:08.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ProductQueryMicroService\\Repositories\\Concretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ProductQueryMicroService\\Repositories\\Concretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ProductQueryMicroService\\Repositories\\Concretes\\GenericRepository.cs",
+              "RelativeToolTip": "ProductQueryMicroService\\Repositories\\Concretes\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:15:48.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ApiGateWay\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateWay\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ApiGateWay\\Program.cs",
+              "RelativeToolTip": "ApiGateWay\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:26:09.572Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
               "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ProductQueryMicroService\\Repositories\\Abstract\\IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ProductQueryMicroService\\Repositories\\Abstract\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "ProductQueryMicroService\\Repositories\\Abstract\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\Asado_ho45\\source\\repos\\WEB-API-Practic\\ProductQueryMicroService\\Repositories\\Abstract\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\API-Gateway-Practic\\ProductQueryMicroService\\Repositories\\Abstract\\IGenericRepository.cs",
               "RelativeToolTip": "ProductQueryMicroService\\Repositories\\Abstract\\IGenericRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T16:06:32.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T16:06:32.139Z"
             }
           ]
         }

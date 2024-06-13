@@ -4,14 +4,14 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using ProductQueryMicroService.Contexts;
+using ProductCommandMicroService.Contexts;
 
 #nullable disable
 
-namespace ProductQueryMicroService.Migrations
+namespace ProductCommandMicroService.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240610162401_First")]
+    [Migration("20240613143524_First")]
     partial class First
     {
         /// <inheritdoc />
@@ -24,7 +24,7 @@ namespace ProductQueryMicroService.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("ProductQueryMicroService.Entities.Concretes.Product", b =>
+            modelBuilder.Entity("ProductCommandMicroService.Entities.Concretes.Product", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

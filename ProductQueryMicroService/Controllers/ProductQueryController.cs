@@ -14,7 +14,7 @@ namespace ProductQueryMicroService.Controllers
         public async Task<IActionResult> GetAllProducts()
         {
             var data = await _productRepository.GetAllAsync();
-            return View(data);
+            return Ok(data);
         }
 
         [HttpGet("GetProductById")]
